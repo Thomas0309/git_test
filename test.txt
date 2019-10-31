@@ -1,3 +1,4 @@
 1. master
 2. issue1
 3. issue2 + issue3 (rebase)
+4. issue3 change
