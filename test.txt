@@ -4,3 +4,4 @@
 4. issue3 change
 5. issue3 change 2
 6. master change
+7. new change
