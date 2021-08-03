@@ -1,6 +1,7 @@
 # git_test
 # Hello World! 
 # Added
+# new line 2
 # Feature - Master
 # Hotfix
 # ims123
